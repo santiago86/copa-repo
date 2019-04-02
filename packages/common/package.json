@@ -1,11 +1,11 @@
 {
-  "name": "@copa/commoncopacomponents",
-  "version": "1.0.1",
+  "name": "@copa/common",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Santiago <santiagorodriguez17@seven4n.com>",
   "homepage": "https://github.com/santiago86/copa-repo#readme",
   "license": "ISC",
-  "main": "lib/commoncopacomponents.js",
+  "main": "lib/common.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
