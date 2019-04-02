@@ -1,11 +1,11 @@
 {
-  "name": "@copa/common",
-  "version": "1.0.3",
+  "name": "@copa/commoncopacomponents",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Santiago <santiagorodriguez17@seven4n.com>",
   "homepage": "https://github.com/santiago86/copa-repo#readme",
   "license": "ISC",
-  "main": "lib/common.js",
+  "main": "lib/commoncopacomponents.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -25,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/santiago86/copa-repo/issues"
-  },
-  "gitHead": "cb1a5dd206d8799b57ca8f4b4e6d8319c7a873f4"
+  }
 }
