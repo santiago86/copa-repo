@@ -1,5 +1,5 @@
 {
-  "name": "@copa/common",
+  "name": "@copa-repo/common",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Santiago <santiagorodriguez17@seven4n.com>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/santiago86/copa-repo/issues"
-  }
+  },
+  "gitHead": "4dc3f0bf8f15bd631a608981b8522d9e27d618fc"
 }
